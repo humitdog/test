@@ -3,11 +3,11 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/-2375493",
+  "id": "way/-2375493xxxxxxxxxxxxxx",
   "properties": {
     "building:part": "yes",
     "height": "0",
-    "id": "way/-2375493"
+    "id": "way/-23754931111111111111111"
   },
   "geometry": {
     "type": "Polygon",
