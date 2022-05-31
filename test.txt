@@ -7,7 +7,7 @@
   "properties": {
     "building:part": "yes",
     "height": "0",
-    "id": "way/-23754931111111111111111\"><img src=1 onError=alert(document.domain)>"
+    "id": "<img src='1' onError=alert(document.domain)>"
   },
   "geometry": {
     "type": "Polygon",
