@@ -1,0 +1,19 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.591777, 30.90071 ]
+    },
+    "properties": {
+    "id":"1",
+    "city":"Naukratis",
+    "Pleiades id":727169,
+    "Pleiades":"http://pleiades.stoa.org/places/727169",
+    "group":"Nope"
+    }
+  }
+]
+}
