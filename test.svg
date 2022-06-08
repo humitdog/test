@@ -1,4 +1,13 @@
-<svg width="200" height="200"
-  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <image xlink:href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhO5Y3NNMMuMIHy1_mIKSXi02WNBCsa6ZoRc5iuA12Wqx7HDogVe0jKygVM11eJYCigB4&usqp=CAU" height="200" width="200"/>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- A link around a shape -->
+  <a href="/docs/Web/SVG/Element/circle">
+    <circle cx="50" cy="40" r="35"/>
+  </a>
+
+  <!-- A link around a text -->
+  <a href="/docs/Web/SVG/Element/text">
+    <text x="50" y="90" text-anchor="middle">
+      &lt;circle&gt;
+    </text>
+  </a>
 </svg>
