@@ -1,0 +1,1 @@
+{"selectors":{"iframe:"<img src=1>"}}
